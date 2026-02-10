@@ -20,10 +20,10 @@
 </div>
 
 ---
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,16,20&height=100&section=footer&animation=fadeIn" alt="Luxury Gradient Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&animation=fadeIn" alt="Luxury Footer Wave" />
 </div>
+
 
 
 
