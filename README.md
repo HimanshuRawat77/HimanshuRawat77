@@ -21,8 +21,9 @@
 
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer&animation=fadeIn" alt="Luxury Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,15,21&height=180&section=footer&animation=fadeIn" alt="Aurora Luxe Footer" />
 </div>
+
 
 
 
