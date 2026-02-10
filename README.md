@@ -16,9 +16,8 @@
 ## 🔥 Recent Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuRawat77&theme=github-compact&hide_border=true&bg_color=0D1117&color=9CA3AF&line=E5E7EB&point=F9FAFB" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuRawat77&theme=react-dark&hide_border=true&bg_color=0B0F14&color=A1A1AA&line=93C5FD&point=E5E7EB" alt="Activity Graph" />
 </div>
-
 
 ---
 
