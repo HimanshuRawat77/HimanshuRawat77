@@ -20,18 +20,16 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,15,21&height=180&section=footer&animation=fadeIn" alt="Aurora Luxe Footer" />
-</div>
-
-
-
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HimanshuRawat77&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,9,15,21&height=230&section=footer&animation=fadeIn" alt="Aurora Luxe Footer" style="width: 100%;" />
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
