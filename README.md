@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Himanshu+Rawat!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=850&height=70&duration=3200&lines=Hey!+I'm+Himanshu+Rawat+👋;Code,+Create,+Repeat;Turning+ideas+into+working+products;Exploring+Web,+Cloud,+and+ML+⚙️" />
 </h1>
+
 
 # 💫 About Me:
 👋 Hi, I’m Himanshu Rawat<br>A B.Tech Computer Engineering student who enjoys building clean, functional web apps and understanding how systems work under the hood. Passionate about turning ideas into real projects through hands-on development and continuous learning. Always curious, always improving 🚀
