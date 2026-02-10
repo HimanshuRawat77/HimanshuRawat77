@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=footer" alt="Footer Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=90&section=footer" alt="Footer Wave" />
 </div>
 
 
