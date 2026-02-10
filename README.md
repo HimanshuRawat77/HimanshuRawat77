@@ -1,3 +1,6 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Himanshu + Rawat!;" />
+</h1>
 # 💫 About Me:
 👋 Hi, I’m Himanshu Rawat<br>A B.Tech Computer Engineering student who enjoys building clean, functional web apps and understanding how systems work under the hood. Passionate about turning ideas into real projects through hands-on development and continuous learning. Always curious, always improving 🚀
 
