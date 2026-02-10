@@ -21,6 +21,15 @@
 
 ---
 
+<div align="center">
+  <sub>Built with patience, shipped with care.</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=footer" alt="Footer Divider" />
+</div>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
