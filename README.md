@@ -19,13 +19,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuRawat77&theme=react-dark&hide_border=true&bg_color=0B0F14&color=A1A1AA&line=93C5FD&point=E5E7EB" alt="Activity Graph" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HimanshuRawat77&theme=github_dark" />
-
-</div>
+ 
 
 ---
 ### ✍️ Random Dev Quote
