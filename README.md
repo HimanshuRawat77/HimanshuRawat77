@@ -15,33 +15,34 @@
 
 <!-- Languages -->
 <h3>💻 Languages</h3>
-<img src="https://skillicons.dev/icons?i=cpp,java,js,python" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python" /><br/>
 
 <!-- Frontend -->
 <h3>🎨 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" /><br/>
 
 <!-- Backend -->
 <h3>⚙️ Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" /><br/>
 
 <!-- Database & ORM -->
 <h3>🗄️ Database</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma" /><br/>
 
 <!-- AI / ML -->
 <h3>🤖 AI / ML</h3>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /><br/>
 
 <!-- Cloud & Deployment -->
 <h3>☁️ Cloud</h3>
-<img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,vercel,netlify" /><br/>
 
 <!-- Tools -->
 <h3>🛠️ Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" /><br/>
 
 </div>
+
 ## 🔥 Recent Activity
 
 <div align="center">
