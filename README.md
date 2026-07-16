@@ -7,8 +7,16 @@
 👋 Hi, I’m Himanshu Rawat<br>A B.Tech Computer Engineering student who enjoys building clean, functional web apps and understanding how systems work under the hood. Passionate about turning ideas into real projects through hands-on development and continuous learning. Always curious, always improving 🚀
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hima_nshu1205_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HIMANSHU RAWAT) 
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://instagram.com/hima_nshu1205_official" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/himanshu-rawat-622719288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 # 💻 Tech Stack:
 <div align="center">
