@@ -13,6 +13,7 @@
   <a href="https://instagram.com/hima_nshu1205_official" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/himanshu-rawat-622719288/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
